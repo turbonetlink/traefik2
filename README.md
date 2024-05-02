@@ -1,3 +1,6 @@
+https://hub.docker.com/api/media/repos_logo/v1/library%2Ftraefik
+
+
 esse compose instala o traefik 2.11.2 na ultima versão estavel para produção
 
 plataformas 
