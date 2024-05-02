@@ -1,4 +1,4 @@
-esse compose instala o traefik 2.12 na ultima versão estavel para produção
+esse compose instala o traefik 2.11.2 na ultima versão estavel para produção
 
 plataformas 
 linux/amd64 	
